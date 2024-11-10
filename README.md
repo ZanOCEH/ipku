@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm [Nazand]!
 
 I'm a passionate web developer, currently learning new technologies and building cool projects.
 
@@ -19,12 +19,11 @@ I'm a passionate web developer, currently learning new technologies and building
 - **DevOps**: Docker, Kubernetes, CI/CD
 
 ## 🌍 You can find me at:
-- [GitHub](https://github.com/yourusername)
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
+- [GitHub](https://github.com/ZanOCEH)
+- [Telegram](https://t.me/nzncodes)
 
 ## 📊 My GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ## 🏆 My Top Repositories:
-[![Your Project](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo-name)](https://github.com/yourusername/your-repo-name)
+[![Your Project](https://github-readme-stats.vercel.app/api/pin/?username=ZanOCEH&repo=IP-ku)](https://github.com/ZanOCEH/IP-ku)
